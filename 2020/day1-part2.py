@@ -1,3 +1,4 @@
+# https://adventofcode.com/2020/day/1
 with open("day1-input.txt", "r") as f:
     expenses = f.read().splitlines()
 
